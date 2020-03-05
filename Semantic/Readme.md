@@ -68,7 +68,7 @@ There are two training options: one is to train using only with LabPics dataset,
 
 
 # Training simple (only LabPics)
-1. Download the LabPics data set from [Here](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
+1. Download the LabPics data set from [Here](https://zenodo.org/record/3697452) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
 2. Open the Train.py script
 3. Set the path to the LabPics dataset main folder to the TrainFolderPath parameter.
 4. Run the script 
@@ -141,6 +141,6 @@ Work was done in the Matter Lab (Alan Aspuru Guzik group) and the Vector institu
 The [LabPics dataset](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing) was made by Mor Bismuth.
 
 # Links
-LabPics dataset for annotated images of liquid, solid and foam materials in mostly transperent vessels in Lab setting and general everyday setting can be download from [here](https://drive.google.com/file/d/1TZao7JDzxcJr_hMqYHLRcV2N0UHoH2c1/view?usp=sharing) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
+LabPics dataset for annotated images of liquid, solid and foam materials in mostly transperent vessels in Lab setting and general everyday setting can be download from [here](hhttps://zenodo.org/record/3697452) or [here](https://drive.google.com/file/d/1gfaM_6eZjtg7dkFShGl1gIfsXzj1KjIX/view?usp=sharing)
 
 Train model for this net can be download from [here](https://drive.google.com/file/d/1AtZFRyKAiEk9Pfip636_c7tZJjT0xUOP/view?usp=sharing) or [here](https://drive.google.com/file/d/1E9oABPr84FOVTbaF2CnLm8qq9tbV4yY6/view?usp=sharing).
