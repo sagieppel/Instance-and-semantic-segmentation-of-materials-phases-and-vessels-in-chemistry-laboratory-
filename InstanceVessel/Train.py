@@ -39,7 +39,7 @@ Learning_Rate_Decay=Learning_Rate/20
 StartLRDecayAfterSteps=200000
 MaxPixels=340000*6#4# Max pixel in batch can have (to keep oom out of memory problems) if the image larger it will be resized.
 TrainLossTxtFile=TrainedModelWeightDir+"TrainLoss.txt" #Where train losses will be writen
-Weight_Decay=1e-4# Weight for the weight decay loss function
+Weight_Decay=1e-5# Weight for the weight decay loss function
 MAX_ITERATION = int(100000010) # Max  number of training iteration
 
 #-----------------Generate evaluator for net accuracy------------------------------------------------------------------------------------------------------------------------------------------------
